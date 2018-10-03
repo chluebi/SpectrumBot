@@ -1,3 +1,29 @@
-Homosexual
-Heterosexual
+Gender: Genderfluid
+Gender: Intersex
+Gender: Questioning
+Gender: Demigirl
+Gender: Demiboy
+Gender: Non-Binary
+Gender: Genderqueer
+Gender: Agender
+Gender: Bigender
+Gender: Female
+Gender: Male
+Pronoun: Xher
+Pronoun: Xhe
+Pronoun: Any
+Pronoun: They
+Pronoun: She
+Pronoun: He
 Bisexual
+Pansexual
+Biromantic
+Panromantic
+Heteroflexible
+Homoflexible
+Asexual
+Aromantic
+Demisexual
+Homoflexible
+Sexuality: Queer
+Gay
